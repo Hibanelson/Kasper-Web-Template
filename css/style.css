@@ -106,7 +106,7 @@ ul {
 /* End Main Heading */
 /* Start Header */
 header {
-    background-image: url("/images/landing.jpg");
+    background-image: url("https://raw.githubusercontent.com/Hibanelson/Kasper-Web-Template/main/images/landing.jpg");
     background-size: cover;
 }
 header .overlay {
@@ -358,7 +358,7 @@ header .overlay .landing ul li.active {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
     width: 100%;
-    background-image: url("/images/design-features.jpg");
+    background-image: url("https://raw.githubusercontent.com/Hibanelson/Kasper-Web-Template/main/images/design-features.jpg");
     color: white; 
     position: relative;
     display: flex;
@@ -459,35 +459,35 @@ header .overlay .landing ul li.active {
     -o-transition: .5s;
 }
 .portfolio-items .portfolio-item:first-of-type {
-    background-image: url("/images/shuffle-01.jpg");
+    background-image: url("https://raw.githubusercontent.com/Hibanelson/Kasper-Web-Template/main/images/shuffle-01.jpg");
     background-size: cover;
 }
 .portfolio-items .portfolio-item:nth-of-type(2) {
-    background-image: url("/images/shuffle-02.jpg");
+    background-image: url("https://raw.githubusercontent.com/Hibanelson/Kasper-Web-Template/main/images/shuffle-02.jpg");
     background-size: cover;
 }
 .portfolio-items .portfolio-item:nth-of-type(3) {
-    background-image: url("/images/shuffle-03.jpg");
+    background-image: url("https://raw.githubusercontent.com/Hibanelson/Kasper-Web-Template/main/images/shuffle-03.jpg");
     background-size: cover;
 }
 .portfolio-items .portfolio-item:nth-of-type(4) {
-    background-image: url("/images/shuffle-04.jpg");
+    background-image: url("https://raw.githubusercontent.com/Hibanelson/Kasper-Web-Template/main/images/shuffle-04.jpg");
     background-size: cover;
 }
 .portfolio-items .portfolio-item:nth-of-type(5) {
-    background-image: url("/images/shuffle-05.jpg");
+    background-image: url("https://raw.githubusercontent.com/Hibanelson/Kasper-Web-Template/main/images/shuffle-05.jpg");
     background-size: cover;
 }
 .portfolio-items .portfolio-item:nth-of-type(6) {
-    background-image: url("/images/shuffle-06.jpg");
+    background-image: url("https://raw.githubusercontent.com/Hibanelson/Kasper-Web-Template/main/images/shuffle-06.jpg");
     background-size: cover;
 }
 .portfolio-items .portfolio-item:nth-of-type(7) {
-    background-image: url("/images/shuffle-07.jpg");
+    background-image: url("https://raw.githubusercontent.com/Hibanelson/Kasper-Web-Template/main/images/shuffle-07.jpg");
     background-size: cover;
 }
 .portfolio-items .portfolio-item:last-of-type {
-    background-image: url("/images/shuffle-08.jpg");
+    background-image: url("https://raw.githubusercontent.com/Hibanelson/Kasper-Web-Template/main/images/shuffle-08.jpg");
     background-size: cover;
 }
 @media (max-width: 1199px) {
@@ -631,7 +631,7 @@ header .overlay .landing ul li.active {
 /* End about Section */
 /* Start Stats Section */
 .stats {
-    background-image: url("/images/stats.png");
+    background-image: url("https://raw.githubusercontent.com/Hibanelson/Kasper-Web-Template/main/images/stats.png");
     background-size: cover;
     margin-top: -5px;
     padding: 50px 20px;
@@ -757,11 +757,11 @@ header .overlay .landing ul li.active {
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
     -o-border-radius: 50%;
-    background-image: url("/images/skills-01.jpg");
+    background-image: url("https://raw.githubusercontent.com/Hibanelson/Kasper-Web-Template/main/images/skills-01.jpg");
     background-size: cover;
 }
 .testimonials-skills .container .testimonials .testimonial-item:last-of-type .black-circle-container .black-circle {
-    background-image: url("/images/skills-02.png");
+    background-image: url("https://raw.githubusercontent.com/Hibanelson/Kasper-Web-Template/main/images/skills-02.jpg");
 }
 .testimonials-skills .container .testimonials .testimonial-item .description {
     width: 80%;
@@ -1033,7 +1033,7 @@ header .overlay .landing ul li.active {
 /* End Pricing Section */
 /* Start Subscribe Section */
 .subscribe {
-    background-image: url("/images/subscribe.jpg");
+    background-image: url("https://raw.githubusercontent.com/Hibanelson/Kasper-Web-Template/main/images/subscribe.jpg");
     background-size: cover;
     color: white;
     padding-top: var(--section-padding);
@@ -1191,7 +1191,7 @@ header .overlay .landing ul li.active {
 }
 /* Start Footer Section */
 footer {
-    background-image: url("/images/subscribe.jpg");
+    background-image: url("https://raw.githubusercontent.com/Hibanelson/Kasper-Web-Template/main/images/subscribe.jpg");
     color: white;
     position: relative;
     padding-top: 50px;
